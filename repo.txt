@@ -1,0 +1,19 @@
+
+---FOR ENCRYPTION---
+Original Sring: GEEKSFORGEEKS
+Key: AYUSH
+New Generated Key: AYUSHAYUSHAYU
+Encrypted String: 
+------------------------------------
+---FOR ENCRYPTION---
+Original Sring: GEEKSFORGEEKS
+Key: AYUSH
+New Generated Key: AYUSHAYUSHAYU
+Encrypted String: GCYCZFMLYLEIM
+------------------------------------
+---FOR ENCRYPTION---
+Original Sring: GEEKSFORGEEKS
+Key: AYUSH
+New Generated Key: AYUSHAYUSHAYU
+Encrypted String: GCYCZFMLYLEIM
+------------------------------------
